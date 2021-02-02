@@ -21,6 +21,6 @@
  - Bye
  
 # ordered list
- a hi
- b hello
- c Bye
+ a. hi
+ b. hello
+ c. Bye
