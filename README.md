@@ -15,9 +15,12 @@
 |------|-----|-------|
 | mallika | 574 | CSE |
 
-#unordered list
+# unordered list
  - hi
  - hello
  - Bye
  
-
+# ordered list
+ a mallika
+ b 574
+ c CSE
