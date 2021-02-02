@@ -21,9 +21,6 @@
  - Bye
  
 # ordered list
-  a mallika
-  b 574
-  c CSE
-     * IP
-     * Java
-     * DBMS
+ a hi
+ b hello
+ c Bye
