@@ -21,6 +21,8 @@
  - Bye
  
 # ordered list
- a. hi
- b. hello
- c. Bye
+ 1. hi
+ 2. hello
+ 3. Bye
+    - see you
+    - good bye
