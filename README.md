@@ -24,3 +24,6 @@
   a mallika
   b 574
   c CSE
+     * IP
+     * Java
+     * DBMS
